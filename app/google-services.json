@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "978776940110",
+    "firebase_url": "https://mcpushtest-1aa86.firebaseio.com",
+    "project_id": "mcpushtest-1aa86",
+    "storage_bucket": "mcpushtest-1aa86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978776940110:android:c381b0553d3298ca",
+        "android_client_info": {
+          "package_name": "com.i2max.mcpushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978776940110-in6jibratqh4bfo13f52d6oi2pu5hmgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.i2max.mcpushtest",
+            "certificate_hash": "5e86f0235c4204294317334cd632204c88ed5881"
+          }
+        },
+        {
+          "client_id": "978776940110-u8vvep7jur9bin0qe6dr33betmcbfru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF0D6vAG9OeYwdD3ako1UssOX-FtzmEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978776940110-u8vvep7jur9bin0qe6dr33betmcbfru6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978776940110:android:6f8fd257d03060d7",
+        "android_client_info": {
+          "package_name": "com.i2max.mcpushtest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978776940110-u8vvep7jur9bin0qe6dr33betmcbfru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF0D6vAG9OeYwdD3ako1UssOX-FtzmEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978776940110:android:21f791c95241416c",
+        "android_client_info": {
+          "package_name": "com.salesforce.marketingcloud.android.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978776940110-u8vvep7jur9bin0qe6dr33betmcbfru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF0D6vAG9OeYwdD3ako1UssOX-FtzmEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
